@@ -18,14 +18,14 @@ Change to Solid Color
                 Find Clipping Plains
 Change Near to 0.85
     
-CREATE 3D IMAGE 
+### CREATE 3D IMAGE 
 
 Right click in Hierarchy
     Create any basic 3D Object
         Under Transform
             Change Position: X:0 Y:0 Z:8
 
-CHANGE QUALITY/PERFORMANCE SETTINGS
+### CHANGE QUALITY/PERFORMANCE SETTINGS
 
 Click Edit ->  Go to Project Settings -> Click Quality
 
@@ -37,7 +37,7 @@ Click on Window ->  Go to Vuforia Configuration
 Change Device Type to “Digital Eyewear” 
         Change Device Config to Hololens
 
-SAVE PROJECT
+### SAVE PROJECT
 
 Click File -> Save Scene As.
     Create New Folder named “Scenes” under the Assets Folder (Should be the default folder)
@@ -45,7 +45,7 @@ Click File -> Save Scene As.
 
 Click File -> Save Project
 
-CHANGE BUILD/PLAYER SETTINGS
+### CHANGE BUILD/PLAYER SETTINGS
 
 Click File -> Build Settings 
 
@@ -77,7 +77,7 @@ Under Virtual Reality SDKS
 Add Vuforia using the Plus sign in the bottom right
 Vuforia Augmented Reality
 
-BUILDING THE PROJECT
+### BUILDING THE PROJECT
 
 Go Back to Build Settings, and hit Build.
 
@@ -85,7 +85,7 @@ Create a new File named “App” for the project.
 
 When build is finished, find the .sln file under the “App” folder.
 
-RUNNING PROJECT WITH VISUAL STUDIO
+### RUNNING PROJECT WITH VISUAL STUDIO
 
 Open that file with visual studio
 In the toolbar for Visual Studio
