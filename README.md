@@ -11,13 +11,12 @@
     * Look under Inspector Tab
       * Under Transform
         * Change Position to  X:0 Y:0 Z:0
-* Under Inspector Tab
-  * Under Camera Component
-    * Find Clear Flags
-      * Change to Solid Color
-        * Change Color to RGB: 0,0,0 or Black
-          * Find Clipping Plains
-            * Change Near to 0.85
+      * Under Camera Component
+        * Find Clear Flags
+          * Change to Solid Color
+            * Change Color to RGB: 0,0,0 or Black
+              * Find Clipping Plains
+                * Change Near to 0.85
     
 ### CREATE 3D IMAGE 
 
