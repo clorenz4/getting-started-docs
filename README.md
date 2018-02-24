@@ -41,6 +41,8 @@ Click Edit ->  Go to Project Settings -> Click Quality
 
      Click arrow under Universal Windows Platform, (Windows Logo)
         Set to “Very Low”
+        
+Clike on File -> Build Settings -> Player Settings -> Navigate to XR Settings -> Make sure the Virtual Reality Supported box and the Vuforia Augmented Reality box are checked
 
 Click on Window ->  Go to Vuforia Configuration
     Find Digital Eyewear 
